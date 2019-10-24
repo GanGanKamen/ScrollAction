@@ -1,0 +1,9 @@
+G:\TUT\一年後期\プロジェクト演習\イントロダクションⅡ\FK_Final\FK_Final\bin\Release\FK_Final.exe.config
+G:\TUT\一年後期\プロジェクト演習\イントロダクションⅡ\FK_Final\FK_Final\bin\Release\FK_Final.exe
+G:\TUT\一年後期\プロジェクト演習\イントロダクションⅡ\FK_Final\FK_Final\bin\Release\FK_Final.pdb
+G:\TUT\一年後期\プロジェクト演習\イントロダクションⅡ\FK_Final\FK_Final\bin\Release\FK_CLI.dll
+G:\TUT\一年後期\プロジェクト演習\イントロダクションⅡ\FK_Final\FK_Final\obj\Release\FK_Final.csproj.CoreCompileInputs.cache
+G:\TUT\一年後期\プロジェクト演習\イントロダクションⅡ\FK_Final\FK_Final\obj\Release\FK_Final.exe
+G:\TUT\一年後期\プロジェクト演習\イントロダクションⅡ\FK_Final\FK_Final\obj\Release\FK_Final.pdb
+G:\TUT\一年後期\プロジェクト演習\イントロダクションⅡ\FK_Final\FK_Final\obj\Release\FK_Final.csprojAssemblyReference.cache
+G:\TUT\一年後期\プロジェクト演習\イントロダクションⅡ\FK_Final\FK_Final\obj\Release\FK_Final.csproj.CopyComplete
